@@ -1,3 +1,3 @@
-resource "aws_vpc" "vpc" {
+provider "aws" {
   
 }

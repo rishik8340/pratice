@@ -1,0 +1,3 @@
+resource "aws-vpc" "vpc" {
+  
+}
